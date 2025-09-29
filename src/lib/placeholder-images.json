@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "A vibrant, abstract digital landscape with flowing lines of light.",
+      "imageUrl": "https://images.unsplash.com/photo-1542710826687-7e3026a6da09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NTg5NDk0MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract landscape"
+    },
+    {
+      "id": "2",
+      "description": "A close-up of a complex mechanical watch movement, showcasing intricate gears and springs.",
+      "imageUrl": "https://images.unsplash.com/photo-1541870132-ecf16aeed15f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtZWNoYW5pY2FsJTIwZ2VhcnN8ZW58MHx8fHwxNzU4ODgzNzU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mechanical gears"
+    },
+    {
+      "id": "3",
+      "description": "A bioluminescent jellyfish glowing in the deep dark ocean.",
+      "imageUrl": "https://images.unsplash.com/photo-1727945592076-3152f2d67837?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2xvd2luZyUyMGplbGx5ZmlzaHxlbnwwfHx8fDE3NTg5MDM1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glowing jellyfish"
+    },
+    {
+      "id": "4",
+      "description": "A futuristic cityscape at night with flying vehicles and neon signs.",
+      "imageUrl": "https://images.unsplash.com/photo-1535021131637-96f0c931f5d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmdXR1cmlzdGljJTIwY2l0eXxlbnwwfHx8fDE3NTg4MzQ2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "5",
+      "description": "An astronaut floating in space, looking at a distant nebula.",
+      "imageUrl": "https://images.unsplash.com/photo-1664983661035-f3c38a1ea93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhc3Ryb25hdXQlMjBzcGFjZXxlbnwwfHx8fDE3NTg5Mjg0MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "astronaut space"
+    },
+    {
+      "id": "6",
+      "description": "A stylized, low-poly 3D model of a mountain range at sunrise.",
+      "imageUrl": "https://images.unsplash.com/photo-1701829355256-a49bef1aa5db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb2x5JTIwbW91bnRhaW58ZW58MHx8fHwxNzU4OTAzNTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "poly mountain"
+    }
+  ]
+}
